@@ -1,0 +1,27 @@
+/**
+ * Sarah Morshed - B00881746
+ * CSCI 2110 - Assignment 4
+ * Three runs of the program which show the encoding and decoding
+ * */
+
+Test 1:
+
+Enter a line (uppercase letters only): SARAH AYMAN
+Here's the encoded line: 10011110100011100101 1110001000011111101010
+The decoded line is: SARAH AYMAN
+
+--------------------------------------------------------------------------------
+
+Test 2:
+
+Enter a line (uppercase letters only): THE LAKE HOUSE
+Here's the encoded line: 0000101011 1011111100010111011 01011101010011001011
+The decoded line is: THE LAKE HOUSE
+
+--------------------------------------------------------------------------------
+
+Test 3:
+
+Enter a line (uppercase letters only): CLEOPATRA VII PHILOPATOR
+Here's the encoded line: 01000101110111101101101111000010001110 00101011001100 10110101011100101111101101101111000011011000
+The decoded line is: CLEOPATRA VII PHILOPATOR
